@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    /* Dark Neon Pink UI Color Scheme */
+    --color-background: #121212;
+    --color-surface: #1e1e1e;
+    --color-inactive: #535353;
+    --color-subtext: #b3b3b3;
+    --color-accent: #ff10f0;
+    --color-text: #f5f5f5;
+  }
+}
